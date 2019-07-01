@@ -37,6 +37,7 @@ defmodule LogstashJson.Mixfile do
 
   defp package do
     [
+      organization: "coingaming",
       name: :logstash_json,
       maintainers: ["Tobias Ara Svensson"],
       licenses: ["MIT"],
